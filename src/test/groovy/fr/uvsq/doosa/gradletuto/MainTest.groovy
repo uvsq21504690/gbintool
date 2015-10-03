@@ -6,6 +6,6 @@ class MainTest {
     @Test
     void shouldReturnHello() {
         Main m = new Main()
-        assert 'Hello' == m.returnHello()
+        assert 'Hello My friend' == m.returnHello()
     }
 }
